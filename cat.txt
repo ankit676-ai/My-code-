@@ -1,2 +1,5 @@
 My first code to be commited 
-git hub tutorial 
+git hub tutorial  
+
+
+file has been updated
